@@ -5,3 +5,4 @@ Cell surface proteins are a rich source for druggable targets of immune and targ
 This repository contains analysis code for the following paper: Hu and Yuan, et al. (2021) Systematic characterization of the surfaceome across human cancers. Nature Cancer.
 
 
+Figure1_GESPscore.xlsx reproduces high confidence surfaceome candidates from nine complementary surfaceome resources.
