@@ -6,3 +6,6 @@ This repository contains analysis code for the following paper: Hu and Yuan, et 
 
 
 Figure1_GESPscore.xlsx reproduces high confidence surfaceome candidates from nine complementary surfaceome resources.
+
+Figure2.R reproduces the core analysis in Figure 2.
+
