@@ -12,3 +12,6 @@ Figure2.R reproduces the core analysis in Figure 2.
 Figure3.R reproduces the core analysis in Figure 3.
 
 Figure4.R reproduces the core analysis in Figure 4.
+
+Figure5.R reproduces the core analysis in Figure 5.
+
