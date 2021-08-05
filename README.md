@@ -15,3 +15,5 @@ Figure4.R reproduces the core analysis in Figure 4.
 
 Figure5.R reproduces the core analysis in Figure 5.
 
+Figure6_logFDR.xlsx reproduces the correlations of expressions between lighand-receptor pairs.
+
